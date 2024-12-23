@@ -7,31 +7,6 @@
     
 </div>
 
-<style>
-        .container {
-            display: flex; /* Используем flexbox */
-            align-items: center; /* Центрируем по вертикали */
-            justify-content: space-between; /* Разделяем элементы */
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f2f2f2;
-        }
-        .gif-container {
-            max-width: 50%; /* Ограничиваем ширину контейнера с GIF */
-        }
-        img {
-            max-width: 100%; /* Ограничиваем ширину изображения */
-            height: auto; /* Сохраняем пропорции */
-        }
-        .text-container {
-            max-width: 45%; /* Ограничиваем ширину текстового контейнера */
-            padding-left: 20px; /* Отступ слева для текста */
-        }
-    </style>
-</head>
-<body>
-
 <div class="container" style="
             display: flex;
             align-items: center;
