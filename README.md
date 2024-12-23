@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  ![](dancing-gopher.gif)
+  ![](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
 </div>
 
 ###
