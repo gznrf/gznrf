@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  ![](URL_вашего_GIF)
+  ![](dancing-gopher.gif)
 </div>
 
 ###
