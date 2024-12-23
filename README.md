@@ -22,7 +22,7 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,rest,js,html,css,git,linux)](https://skillicons.dev)
 ###
 
 <h3 align="left">🔥   Моя статистика :</h3>
