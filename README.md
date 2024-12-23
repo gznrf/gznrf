@@ -13,12 +13,6 @@
     </div>
 </div>
 
-<div class="container">
-    <img src="https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif" alt="Описание анимации" display="inline">
-    <h1 align="center">Привет👋 Меня зовут Иван!</h1>
-    
-</div>
-
 
 ###
 
