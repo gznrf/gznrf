@@ -1,16 +1,19 @@
 <br clear="both">
 
-
+# Мое Портфолио
 
 <div style="display: flex; align-items: center;">
+
     <div style="margin-right: 20px;">
         <img src="https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif" alt="Моя анимация" style="max-width: 300px; height: auto;">
     </div>
+
     <div>
         <h2>Заголовок текста</h2>
         <p>Это текст, который будет отображаться справа от GIF. Вы можете добавить сюда любое содержание, которое вам нужно.</p>
         <p>Дополнительная информация или описание проекта могут быть размещены здесь.</p>
     </div>
+
 </div>
 
 
