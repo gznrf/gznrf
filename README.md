@@ -3,7 +3,7 @@
 <div align="center">
  
 </div>
- ![](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
+ ![Мой анимационный GIF](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
 
 ###
 
