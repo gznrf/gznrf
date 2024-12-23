@@ -19,28 +19,6 @@
     
 </div>
 
-<div class="container" style="
-            display: flex;
-            align-items: center;
-            justify-content: space-between; 
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f2f2f2;
-        ">
-    <div class="gif-container" style="max-width: 50%;">
-        <img src="https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif" alt="Описание анимации" style="
-            max-width: 100%;
-            height: auto;">
-    </div>
-    <div class="text-container" style="
-            max-width: 45%;
-            padding-left: 20px;">
-        <h2>Привет👋 Меня зовут Иван!</h2>
-        <p>Это текст, который будет отображаться справа от GIF. Вы можете добавить сюда любое содержание, которое вам нужно.</p>
-        <p>Дополнительная информация или описание проекта могут быть размещены здесь.</p>
-    </div>
-</div>
 
 ###
 
