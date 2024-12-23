@@ -1,9 +1,7 @@
 <br clear="both">
 
-<div align="center">
- 
-</div>
- ![Мой анимационный GIF](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
+
+![](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
 
 ###
 
