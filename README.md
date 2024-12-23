@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  ![](URL_вашего_GIF)
 </div>
 
 ###
