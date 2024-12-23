@@ -17,7 +17,6 @@
             background-color: #f2f2f2;
         ">
     <div class="gif-container" style="max-width: 50%;">
-        <h1>Моя анимация</h1>
         <img src="https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif" alt="Описание анимации" style="
             max-width: 100%;
             height: auto;">
