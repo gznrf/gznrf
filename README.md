@@ -1,7 +1,12 @@
 <br clear="both">
 
-<div alighn="center"></div>
-![](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)
+
+<div class="container">
+    <h1>Моя анимация</h1>
+    <img src="[https://example.com/ваш_gif.gif](https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif)" alt="Описание анимации">
+</div>
+
+
 
 ###
 
