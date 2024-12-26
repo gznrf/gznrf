@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <img src="https://github.com/gznrf/gznrf/raw/main/dancing-gopher.gif" alt="Моя анимация" style="max-width: 300px; height: auto;">
+        <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt="Моя анимация" style="max-width: 300px; height: auto;">
     </div>
     <div>
         <h2>Привет👋 Меня зовут Иван!</h2>
