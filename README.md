@@ -16,7 +16,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,js,html,css,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,git,linux)](https://skillicons.dev)
 
 ###
 
