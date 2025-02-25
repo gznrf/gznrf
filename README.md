@@ -15,7 +15,8 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=
+gznrf)](https://github.com/KnlnKS/leetcode-stats)
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,git,linux)](https://skillicons.dev)
 
 ###
@@ -29,8 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gznrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=holi&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gznrf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=
-gznrf)](https://github.com/KnlnKS/leetcode-stats)
+
 
 
 ###
